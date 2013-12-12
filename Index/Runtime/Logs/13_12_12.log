@@ -178,3 +178,17 @@ INFO: [ view_end ] --START--
 INFO: ShowPageTrace Behavior ::run [ RunTime:0.001774s ]
 INFO: [ view_end ] --END-- [ RunTime:0.001902s ]
 
+[ 2013-12-12T23:38:03+08:00 ] 127.0.0.1 /index.php/Index/query
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001935s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002102s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.007602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007761s ]
+NOTIC: 建议使用I方法替代_param
+NOTIC: 建议使用I方法替代_param
+NOTIC: 建议使用I方法替代_param
+NOTIC: 建议使用I方法替代_param
+NOTIC: 建议使用I方法替代_param
+NOTIC: 建议使用I方法替代_param
+
